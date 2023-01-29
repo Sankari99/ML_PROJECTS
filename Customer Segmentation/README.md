@@ -1,9 +1,9 @@
 #Customer Segmentation using Kmeans clustering
 Mart sales data set consist of below 5 features
-Customer ID
-Gender
-Age
-Annualincome
+Customer ID,
+Gender,
+Age,
+Annual income,
 Spending score
 
 
